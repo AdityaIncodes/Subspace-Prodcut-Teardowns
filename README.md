@@ -62,7 +62,7 @@ Buyer Pays → Payment Held → Access Confirmed → Release Funds
 
 ### Current Experience
 
-![Current Subscription Marketplace](subscription-marketplace.jpg)
+![Current Subscription Marketplace](subscription marketplace.jpeg)
 
 ### Proposed Experience
 
